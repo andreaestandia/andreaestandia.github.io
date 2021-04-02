@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc (Hons) in Biology, University of Oviedo, 2013-2017
+* Masters by Research in Biological Sciences, Durham University, 2018-2019
+* DPhil in Environmental Research (Zoology), University of Oxford, 2019-2023 (expected)
 
 Work experience
 ======
